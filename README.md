@@ -17,7 +17,7 @@ environment:
   
   # SNS Configuration
   SNS_REGION: <AWS_REGION>
-  SNS_ACCOUNT_ID: <AWS_ACCOUNT_ID> # Dummy value in local setup
+  SNS_ACCOUNT_ID: <AWS_ACCOUNT_ID> 
 ```
 
 
